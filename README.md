@@ -1,6 +1,7 @@
 # -Exploratory-Data-Analysis-Task-5
 Exploratory Data Analysis on Titanic dataset using Python to uncover survival patterns through statistical and visual insights.
 # 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
+![image](https://github.com/user-attachments/assets/ef3a32a2-3123-412d-ba4c-c22cbc8a8740)
 
 
 This project is part of a Data Analyst Internship task to perform Exploratory Data Analysis (EDA) on the Titanic dataset using Python.
